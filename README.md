@@ -1,4 +1,4 @@
-Axios Take-Home
+# Axios Take-Home
 
 Using `blocks` to determine word count and reading time. Word count here is usually lower than from the API, because there may be extra logic on the API to handle smaller words, for example the letter "a" may not be included in the API word count.
 
